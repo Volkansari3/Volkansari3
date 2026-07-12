@@ -8,6 +8,7 @@
 🎓 B.Sc. in **Computer Engineering (TED University)**  
 🤖 Passionate about **AI, Machine Learning, and Data Science**  
 🔬 Focused on **deep learning**, **RAG / LLM-powered systems**, and **applied ML on real-world data**  
+
 📍 Based in **Ankara, Türkiye**
  
 ---
