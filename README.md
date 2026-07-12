@@ -3,14 +3,13 @@
 ---
 
 ## 👨‍💻 About Me
-
-💼 Currently working as an **AI Engineer at DS Bio ve Nano Teknoloji Ürün Takip Doğrulama İç ve Dış Tic. A.Ş.**
-🎓 B.Sc. in **Computer Engineering (TED University)**
-🤖 Passionate about **AI, Machine Learning, and Data Science**
-🔬 Focused on **deep learning**, **RAG / LLM-powered systems**, and **applied ML on real-world data**
-
+ 
+💼 Currently working as an **AI Engineer at DS Bio ve Nano Teknoloji Ürün Takip Doğrulama İç ve Dış Tic. A.Ş.**  
+🎓 B.Sc. in **Computer Engineering (TED University)**  
+🤖 Passionate about **AI, Machine Learning, and Data Science**  
+🔬 Focused on **deep learning**, **RAG / LLM-powered systems**, and **applied ML on real-world data**  
 📍 Based in **Ankara, Türkiye**
-
+ 
 ---
 
 ## 🎯 Professional Focus
